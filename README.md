@@ -27,7 +27,7 @@ I am a computer engineering student who is enthusiastic about developing mobile 
   <a href="https://www.appsheet.com/home/apps" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ELDemy/ELDemy/main/icons/appsheet.png" width="33" height="33" alt="App Sheet" /></a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ELDemy/ELDemy/main/icons/Android%20studio.png" width="36" height="36" alt="Android studio" /></a>
+    <img src="https://raw.githubusercontent.com/ELDemy/ELDemy/main/icons/Android%20studio.png" width="40" height="40" alt="Android studio" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
