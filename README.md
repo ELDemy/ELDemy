@@ -45,7 +45,7 @@ I am a computer engineering student who is enthusiastic about developing mobile 
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahmoudeldemerdash" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/eldemy" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
