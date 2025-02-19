@@ -4,7 +4,7 @@ Hello ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=3fb6d3&width=500&lines=Mobile+App+Developer.;)](https://git.io/typing-svg)
 --------------------
 
-I am a computer engineering student who is enthusiastic about developing mobile applications and wants to experience different work environments and opportunities throughout my college years..
+I am a computer engineering student who is enthusiastic about developing mobile applications and wants to experience different work environments and opportunities throughout my college years.
 
 ### Skills
 --------------------
